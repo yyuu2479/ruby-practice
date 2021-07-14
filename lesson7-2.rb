@@ -14,4 +14,4 @@ while i <= input do
   puts "a/b = #{a / b}"
   i += 1
 end
-puts "処理を終了します"
+puts "処理終了します"
